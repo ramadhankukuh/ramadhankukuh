@@ -1,71 +1,21 @@
-<h1 align="center">السلام عليكم <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="80px" alt=""><br></h1>
-<p align="center">
-  <img src="https://c.tenor.com/owx4Hlt5V8kAAAAC/loli-cute.gif" />
-</p>
-
-<p align="center">
-
-- 👼 My name is Kukuh Ramadhan
-- 🗣️ I am 16 years old 
-- 🔭 I am not programmer
-
-</p>
-
-------
-### Connect with me ☎️
-<p align="center">
-  <a href="https://instagram.com/ramadhankukuh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/qr/CTUJFCYWZHI6N1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/ramadhankukuh"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="https://youtube.com/c/KukuhRamadhann"><img src="https://img.shields.io/badge/YouTube-kukuh ramadhan yt-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/KukuhRamadhann" /><br>
-  <a name=ramadhankukuh&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://github.com/ramadhankukuh"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/c/KukuhRamadhann"><img src="https://img.shields.io/youtube/channel/subscribers/UCD_w05gKF5F_5BNPABShNyQ?style=social" /> <br>
-  <a href="https://komarev.com/ghpvc/?username=ramadhankukuh&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=ramadhankukuh&color=green&style=flat-square&label=Profile+View"></a>
-</p>
-
-### Mobile Legends 🎮
-<p align="center">
-  <img src="https://d1x91p7vw3vuq8.cloudfront.net/image_upload/2020105/ax268kdhrxb3cxvfc8kiym.png" />
-</p>
-
-------
-
-### Spotify Playing 🎧
-<p align="center">
-  <a href="https://open.spotify.com/user/nf3xjkwb8gsuq2b0t8bimjt58" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
-
-------
-
-### Github Stats 🚀
-
-<p align="center"><a href="https://github.com/ramadhankukuh"><img src="https://github-readme-stats.vercel.app/api?username=ramadhankukuh&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/ramadhankukuh"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhankukuh&theme=radical&layout=compact"></a></p> 
-
-### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ramadhankukuh&repo=ramadhankukuh.github.io&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ramadhankukuh&repo=database&theme=nightowl)
+# 💫 About Me:
+Beginner programmer.
 
 
-<p align="center">
-    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
-</p>
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramadhankukuh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramadhankukuh) 
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=ramadhankukuh)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ramadhankukuh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramadhankukuh&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramadhankukuh&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</details>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ramadhankukuh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+---
+[![](https://visitcount.itsvg.in/api?id=ramadhankukuh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Metrics](https://metrics.lecoq.io/ramadhankukuh)
-
-</details> 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
